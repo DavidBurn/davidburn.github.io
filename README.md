@@ -1,2 +1,2 @@
 # davidburn.github.io
-Data Science Portfolo
+Data Science Portfolio
