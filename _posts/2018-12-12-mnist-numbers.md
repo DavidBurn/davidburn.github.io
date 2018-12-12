@@ -2,14 +2,16 @@
 layout: single
 classes: wide
 date: 2018-12-12
-title: "Handwritten number identification"
+title: "Handwritten number classification"
 header:
   overlay_image: "/images/mnistnumbers.png"
   overlay_filter: 0.5
 tags: [data science, machine learning, image classification]
+excerpt: "Building a model to accurately predict hand written numbers"
 ---
 # MNIST handwritten number identification
-The task is to build a model to predict handwritten numbers as accurately as possible.
+The task is to build a 
+model to predict handwritten numbers as accurately as possible.
 
 [EDA and visualisation](#eda)
 
