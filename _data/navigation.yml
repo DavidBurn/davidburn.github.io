@@ -4,3 +4,11 @@ main:
     url: /about/
   - title: "Data Science"
     url: /data-science/
+
+sidebar-sample:
+  - title: "Sample"
+    children:
+      - title: "Link"
+        url: /about/
+      - title: "Kaggle"
+        url: "https://kaggle.com"
