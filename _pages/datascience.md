@@ -4,7 +4,8 @@ title: "Data Science Projects"
 permalink: /data-science/
 author_profile: true
 header:
-  image: "/images/sheffield.jpg"
+  overlay_image: "/images/sheffield.jpg"
+  overlay_filter: 0.5
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
