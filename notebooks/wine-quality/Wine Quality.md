@@ -173,14 +173,14 @@ import matplotlib.pyplot as plt
 plt.figure(figsize=(32,22))
 for i in range(1, white.shape[1]+1):
     plt.subplot(4,3,i)
-    plt.title(white.columns[i-1])
+    plt.title(white.columns[i-1],fontsize=18)
     plt.hist(white.iloc[:,i-1], bins=30)
 
 plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](/images/wine-quality/output_5_0.png)
 
 
 The physio chemical features contain a variety of distributions, there appear to be several outlier values for the majority of the features that could be detected and removed to aid in training a predictive model. There is an excellent explanation on why RandomForests are not immune to being swayed by outliers in the answer to this [stackoverflow post.](https://stats.stackexchange.com/questions/187200/how-are-random-forests-not-sensitive-to-outliers)
@@ -333,14 +333,14 @@ red = pd.read_csv('winequality-red.csv',sep=';')
 plt.figure(figsize=(32,22))
 for i in range(1, red.shape[1]+1):
     plt.subplot(4,3,i)
-    plt.title(red.columns[i-1])
+    plt.title(red.columns[i-1],fontsize=18)
     plt.hist(red.iloc[:,i-1], bins=20)
 
 plt.show()
 ```
 
 
-![png](output_17_0.png)
+![png](/images/wine-quality/output_17_0.png)
 
 
 Much of the distributions of red wine are similar to that of white, the dataset does however seem to be less affected by outliers than the white wine.
@@ -456,5 +456,5 @@ plt.legend(fontsize=12)
 
 
 
-![png](output_27_1.png)
+![png](/images/wine-quality/output_27_1.png)
 
