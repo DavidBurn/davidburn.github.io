@@ -182,7 +182,7 @@ import matplotlib.pyplot as plt
 plt.figure(figsize=(32,22))
 for i in range(1, white.shape[1]+1):
     plt.subplot(4,3,i)
-    plt.title(white.columns[i-1])
+    plt.title(white.columns[i-1],size=12)
     plt.hist(white.iloc[:,i-1], bins=30)
 
 plt.show()
@@ -342,7 +342,7 @@ red = pd.read_csv('winequality-red.csv',sep=';')
 plt.figure(figsize=(32,22))
 for i in range(1, red.shape[1]+1):
     plt.subplot(4,3,i)
-    plt.title(red.columns[i-1])
+    plt.title(red.columns[i-1],size=12)
     plt.hist(red.iloc[:,i-1], bins=20)
 
 plt.show()
