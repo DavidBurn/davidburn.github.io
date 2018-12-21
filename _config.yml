@@ -107,7 +107,7 @@ author:
   avatar           : "/images/bio.png"
   bio              : "Data science enthusiast"
   location         : "Sheffield"
-  email            : "davidburn1989@gmail.com
+  email            : "davidburn1989@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
