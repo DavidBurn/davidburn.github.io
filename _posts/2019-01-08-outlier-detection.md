@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 date: 2019-01-08
-title: "Handwritted number classification"
+title: "Outlier Detection"
 header:
   overlay_image: "/images/outlier-apples.jpg"
   overlay_filter: 0.5
