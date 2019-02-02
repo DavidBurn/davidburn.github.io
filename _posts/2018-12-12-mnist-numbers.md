@@ -6,8 +6,7 @@ title: "Handwritten number classification"
 header:
   overlay_image: "/images/mnistnumbers.png"
   overlay_filter: 0.5
-tags: [data science, machine learning, image classification, python]
-categories: [projects]
+tags: [data science, machine learning, image classification]
 excerpt: "Building a model to accurately predict hand written numbers"
 ---
 # MNIST handwritten number identification

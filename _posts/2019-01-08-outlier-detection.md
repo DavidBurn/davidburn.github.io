@@ -6,7 +6,7 @@ title: "Outlier Detection"
 header:
   overlay_image: "/images/outlier-apples.jpg"
   overlay_filter: 0.5
-tags: [data science, machine learning, python]
+tags: [data science, machine learning]
 categories: [research]
 excerpt: "A selection of methods for detecting outliers"
 ---

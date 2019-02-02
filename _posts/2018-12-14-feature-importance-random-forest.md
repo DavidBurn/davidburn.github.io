@@ -4,8 +4,7 @@ excerpt: "Three methods of estimating feature importance using Random Forests"
 date: 2018-12-14
 layout: single
 classes: wide
-tags: [data science, machine learning, python]
-categories: [research]
+tags: [data science, machine learning]
 header:
   overlay_image: /images/forest.jpg
   overlay_filter: 0.5

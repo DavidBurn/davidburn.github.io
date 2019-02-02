@@ -6,8 +6,7 @@ excerpt: "Assessing the most important physiochemical attribute of wine when ass
 header:
   overlay_image: "/images/wine.jpg"
   overlay_filter: 0.5
-tags: [data science, machine learning, python]
-categories: [projects]
+tags: [data science]
 ---
 # Wine Quality
 A study into wine quality, the task is to assess which is the most important feature of wine when a quality rating is being assigned by a taster. Features are a variety of physiochemical readings and the target variable 'quality' is a sensory reading with a scale of 0-10.
