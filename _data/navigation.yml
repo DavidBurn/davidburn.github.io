@@ -4,6 +4,8 @@ main:
     url: /about/
   - title: "Data Science"
     url: /data-science/
+  - title: "Posts by collection"
+    url: /collection-archive/
 
 sidebar-sample:
   - title: "Sample"
@@ -14,7 +16,11 @@ sidebar-sample:
         url: "https://kaggle.com"
 
 advent-2018:
-  - title: "Day 1 + 2"
-    url: /advent-2018/day1-2/
-  - title: "Day 3"
-    url: /advent-2018/day3/
+  - title: "Advent Of Code"
+    children:
+      - title: "2018 Calendar"
+        url: "https://adventofcode.com/2018"
+      - title: "Days 1+2"
+        url: /
+      - title: "Day 3"
+        url: /advent-2018/day3/
