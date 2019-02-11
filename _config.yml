@@ -276,9 +276,21 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+  advent_2018:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
+  # _advent_2018
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
   # _posts
   - scope:
       path: ""
