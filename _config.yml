@@ -313,4 +313,4 @@ defaults:
       share: true
       related: true
       sidebar:
-        nav: "advent-2018"
+        nav: "advent-2018-sidebar"

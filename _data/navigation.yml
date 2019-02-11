@@ -15,8 +15,8 @@ sidebar-sample:
       - title: "Kaggle"
         url: "https://kaggle.com"
 
-advent-2018:
-  - title: "Advent Of Code"
+advent-2018-sidebar:
+  - title: "Advent Of Code 2018"
     children:
       - title: "2018 Calendar"
         url: "https://adventofcode.com/2018"
