@@ -283,7 +283,7 @@ collections:
 
 # Defaults
 defaults:
-  # _advent_2018
+  # _advent-2018
   - scope:
       path: ""
       type: portfolio
