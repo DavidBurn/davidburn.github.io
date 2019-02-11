@@ -20,6 +20,8 @@ advent-2018-sidebar:
     children:
       - title: "2018 Calendar"
         url: "https://adventofcode.com/2018"
+  - title: "Solutions"
+    children:
       - title: "Days 1+2"
         url: /
       - title: "Day 3"
