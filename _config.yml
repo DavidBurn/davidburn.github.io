@@ -277,7 +277,7 @@ compress_html:
     envs: development
 
 collections:
-  advent_2018:
+  advent-2018:
     output: true
     permalink: /:collection/:path/
 
