@@ -23,6 +23,6 @@ advent-2018-sidebar:
   - title: "Solutions"
     children:
       - title: "Days 1+2"
-        url: /
+        url: /advent-2018/day1-2/
       - title: "Day 3"
         url: /advent-2018/day3/
