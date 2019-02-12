@@ -1,19 +1,17 @@
 ---
 title: "Code Challenges"
+excerpt: "A selection of solutions to various coding challenges"
 layout: splash
 permalink: /code-challenges/
 header: 
   overlay_filter: 0.5
   overlay_image: /images/splash/matrix.jpg
-intro: 
-  - excerpt: "A selection of solutions to various coding challenges"
 feature_row:
   - image_path: /images/splash/advent-full-size.jpg
     title: "Advent of Code 2018"
     url: /advent-2018/day1-2/
     excerpt: An advent calendars worth of coding challenges.
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    btn_class: "btn--disabled"
 feature_row2:
   - image_path: /images/sheffield.png
     title: "Head back home"
