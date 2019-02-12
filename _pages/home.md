@@ -7,7 +7,7 @@ header:
   overlay_image: /images/sheffield.png
 author_profile: true
 feature_row:
-  - image_path: /images/sheffield.png
+  - image_path: /images/blue-code.png
     title: "Data Science"
     excerpt: "A collection of data science projects, research and competition entries"
     url: /data-science/
@@ -24,8 +24,6 @@ feature_row:
     url: /index/
     btn_label: "Read More"
     btn_class: "btn--primary"
-intro:
-  - excerpt: "Some data science projects"
 feature_row2:
   - image_path: /images/titanic.jpg
     title: "Titanic"
@@ -41,8 +39,6 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
