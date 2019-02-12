@@ -16,7 +16,7 @@ feature_row:
   - image_path: /images/splash/matrix.jpg
     title: "Code Challenges"
     excerpt: "Walkthroughs of my solutions to various coding challenges"
-    url: /advent-2018/day1-2/
+    url: /code-challenges/
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /images/skyline.jpg
