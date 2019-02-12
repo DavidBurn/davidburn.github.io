@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: "splash"
+layout: splash
 permalink: /about/
 header:
   image: "/images/sheffield.png"

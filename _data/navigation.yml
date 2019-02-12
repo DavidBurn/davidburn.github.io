@@ -4,8 +4,8 @@ main:
     url: /about/
   - title: "Data Science"
     url: /data-science/
-  - title: "Posts by collection"
-    url: /collection-archive/
+  - title: "Code Challenges"
+    url: /code-challenges/
 
 sidebar-sample:
   - title: "Sample"
