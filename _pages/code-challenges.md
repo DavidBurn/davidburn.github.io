@@ -16,7 +16,6 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /images/sheffield.png
-    title: "Back to Home"
     url: /
     btn_label: "Back to Home"
     btn_class: "btn--primary"
