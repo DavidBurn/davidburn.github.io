@@ -5,7 +5,7 @@ layout: splash
 permalink: /code-challenges/
 header: 
   overlay_filter: 0.5
-  overlay_image: /images/splash/matrix.jpg
+  overlay_image: /images/splash/blue-code.jpg
 feature_row:
   - image_path: /images/splash/advent-full-size.jpg
     title: "Advent of Code 2018"

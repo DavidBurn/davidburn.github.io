@@ -14,7 +14,7 @@ feature_row:
     url: /data-science/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /images/splash/blue-code.jpg
+  - image_path: /images/splash/grey-code.jpg
     title: "Code Challenges"
     excerpt: "Walkthroughs of my solutions to various coding challenges"
     url: /code-challenges/
