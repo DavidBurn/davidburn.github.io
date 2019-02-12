@@ -4,7 +4,7 @@ excerpt: "Data science, machine learning, functional programming and other proje
 layout: splash
 permalink: /
 header:
-  overlay_image: /images/skyline.png
+  overlay_image: /images/sheffield.png
 author_profile: true
 feature_row:
   - image_path: /images/sheffield.png
@@ -15,7 +15,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /images/splash/matrix.jpg
     title: "Code Challenges"
-    excerprt: "Walkthroughs of my solutions to various coding challenges"
+    excerpt: "Walkthroughs of my solutions to various coding challenges"
     url: /advent-2018/day1-2/
     btn_label: "Read More"
     btn_class: "btn--primary"
