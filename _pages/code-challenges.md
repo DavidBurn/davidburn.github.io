@@ -11,7 +11,8 @@ feature_row:
     title: "Advent of Code 2018"
     url: /advent-2018/day1-2/
     excerpt: An advent calendars worth of coding challenges.
-    btn_class: "btn--disabled"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /images/sheffield.png
     title: "Head back home"
