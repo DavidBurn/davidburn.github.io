@@ -8,7 +8,7 @@ header:
 intro: 
   - excerpt: "A selection of solutions to various coding challenges"
 feature_row:
-  - image_path: /images/advent-doors.png
+  - image_path: /images/splash/advent-full-size.jpg
     title: "Advent of Code 2018"
     url: /advent-2018/day1-2/
     excerpt: An advent calendars worth of coding challenges.
@@ -16,6 +16,7 @@ feature_row:
     btn_class: "btn--primary"
 feature_row2:
   - image_path: /images/sheffield.png
+    title: "Head back home"
     url: /
     btn_label: "Back to Home"
     btn_class: "btn--primary"
