@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 date: 2019-02-10
-title: "Advent of code 2018"
+title: "Advent of code 2018 - Day 1 and 2"
 excerpt: "A brief intro and my solutions for day 1 and 2"
 header:
   overlay_image: /images/advent-doors.png
