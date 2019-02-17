@@ -22,7 +22,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /images/splash/clock.jpg
     title: "Recent Posts"
-    excerpt: "Most recent data science posts"
+    excerpt: "All of my most recent posts"
     url: /index/
     btn_label: "Read More"
     btn_class: "btn--primary"
